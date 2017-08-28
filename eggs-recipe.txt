@@ -1,0 +1,9 @@
+ingredientes:
+02 ovos.
+
+intructions:
+Peque dois ovos, uma frigideira, uma lata de manteiga.
+Coloque duas colheres cheias de manteiga na frideira. 
+Ponha a frigideira em fogo brando, espere a manteira derreter.
+Quebre os ovos e coloque-os na frigideira.
+
